@@ -1,0 +1,3 @@
+@echo YB.Mall.AutoTask 服务开始卸载
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u %cd%\BAnalytics.MessageHandling.WindowsService.exe
+pause

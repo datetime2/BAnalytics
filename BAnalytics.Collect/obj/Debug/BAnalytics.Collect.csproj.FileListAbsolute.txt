@@ -1,0 +1,17 @@
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\BAnalytics.Collect.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\BAnalytics.Collect.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\obj\Debug\BAnalytics.Collect.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\obj\Debug\BAnalytics.Collect.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\log4net.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\log4net.xml
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\BAnalytics.MQHelp.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Newtonsoft.Json.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Apache.NMS.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\BAnalytics.MQHelp.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Newtonsoft.Json.xml
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Apache.NMS.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Apache.NMS.xml
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.Collect\obj\Debug\BAnalytics.Collect.csprojResolveAssemblyReference.cache

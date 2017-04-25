@@ -1,0 +1,10 @@
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\DotNetFlumeNG.Client.log4net.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\DotNetFlumeNG.Client.log4net.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\log4net.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\Newtonsoft.Json.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\Thrift.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\log4net.xml
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\Newtonsoft.Json.xml
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\bin\Release\Thrift.pdb
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\obj\Release\DotNetFlumeNG.Client.log4net.dll
+E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\DotNetFlumeNG.Client.log4net\obj\Release\DotNetFlumeNG.Client.log4net.pdb

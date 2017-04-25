@@ -1,0 +1,47 @@
+2016-04-28 19:31:34	-1755325697	745669414	http://localhost:4583/m-Mobile/search?keywords=%E5%A5%B6%E7%B2%89	122.224.197.218	8D81E588-A29B-4B08-A76F-83F6534CB7E4		http://localhost:4583/m-Mobile/Search/SearchKeyWold		Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36	1050	1680	24	zh-CN	Win32	true	杭州市	179	浙江省					-1	Chrome	47	0	Windows 7			Other			1	1	1
+(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)
+Newtonsoft.Json.JsonReaderException: Input string '2016-04-28' is not a valid number. Path '', line 1, position 10.
+   在 Newtonsoft.Json.JsonTextReader.ParseNumber(ReadType readType)
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 55
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44
+(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)
+Newtonsoft.Json.JsonReaderException: Input string '2016-04-28' is not a valid number. Path '', line 1, position 10.
+   在 Newtonsoft.Json.JsonTextReader.ParseNumber(ReadType readType)
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 55
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44
+(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)
+Newtonsoft.Json.JsonReaderException: Input string '2016-04-28' is not a valid number. Path '', line 1, position 10.
+   在 Newtonsoft.Json.JsonTextReader.ParseNumber(ReadType readType)
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 55
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44
+(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)	(null)

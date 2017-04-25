@@ -1,0 +1,13 @@
+﻿正在安装程序集“E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling.WindowsService\bin\Debug\BAnalytics.MessageHandling.WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling.WindowsService\bin\Debug\BAnalytics.MessageHandling.WindowsService.InstallLog
+   assemblypath = E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling.WindowsService\bin\Debug\BAnalytics.MessageHandling.WindowsService.exe
+正在安装服务 BAnalytics.MessageHandling.WindowsService...
+已成功安装服务 BAnalytics.MessageHandling.WindowsService。
+正在日志 Application 中创建 EventLog 源 BAnalytics.MessageHandling.WindowsService...
+正在提交程序集“E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling.WindowsService\bin\Debug\BAnalytics.MessageHandling.WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling.WindowsService\bin\Debug\BAnalytics.MessageHandling.WindowsService.InstallLog
+   assemblypath = E:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling.WindowsService\bin\Debug\BAnalytics.MessageHandling.WindowsService.exe

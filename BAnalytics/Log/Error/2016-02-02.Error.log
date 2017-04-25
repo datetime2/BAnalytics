@@ -1,0 +1,10 @@
+
+
+
+ 记录时间：2016-02-02 18:27:31,643 
+日志级别：  ERROR 
+出错类：BAnalytics.Collect.CollectorHandler  
+错误描述：asdfasdfasd
+BAnalytics.Collect
+Void ProcessRequest(System.Web.HttpContext) 
+

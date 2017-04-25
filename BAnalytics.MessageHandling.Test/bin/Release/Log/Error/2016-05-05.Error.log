@@ -1,0 +1,10 @@
+记录时间：2016-05-05 15:55:12,737 
+日志级别：ERROR 
+异常类名：ub_pageview_log  
+异常来源：无效的 URI: 未能分析证书颁发机构/主机。 
+
+System.UriFormatException: 无效的 URI: 未能分析证书颁发机构/主机。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 System.Uri..ctor(String uriString)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 107
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44

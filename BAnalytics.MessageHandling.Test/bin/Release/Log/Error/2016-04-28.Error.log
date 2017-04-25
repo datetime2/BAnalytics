@@ -1,0 +1,57 @@
+记录时间：2016-04-28 20:50:46,635 
+日志级别：ERROR 
+异常类名：ub_pageview_log  
+异常来源：Input string '2016-04-28' is not a valid number. Path '', line 1, position 10. 
+
+Newtonsoft.Json.JsonReaderException: Input string '2016-04-28' is not a valid number. Path '', line 1, position 10.
+   在 Newtonsoft.Json.JsonTextReader.ParseNumber(ReadType readType)
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 55
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44
+记录时间：2016-04-28 20:52:19,153 
+日志级别：ERROR 
+异常类名：ub_pageview_log  
+异常来源：Input string '2016-04-28' is not a valid number. Path '', line 1, position 10. 
+
+Newtonsoft.Json.JsonReaderException: Input string '2016-04-28' is not a valid number. Path '', line 1, position 10.
+   在 Newtonsoft.Json.JsonTextReader.ParseNumber(ReadType readType)
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 55
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44
+记录时间：2016-04-28 20:55:07,871 
+日志级别：ERROR 
+异常类名：ub_pageview_log  
+异常来源：Input string '2016-04-28' is not a valid number. Path '', line 1, position 10. 
+
+Newtonsoft.Json.JsonReaderException: Input string '2016-04-28' is not a valid number. Path '', line 1, position 10.
+   在 Newtonsoft.Json.JsonTextReader.ParseNumber(ReadType readType)
+   在 Newtonsoft.Json.JsonTextReader.ParseValue()
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.JsonReader.ReadAndMoveToContent()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   在 BAnalytics.MessageHandling.PageViewProcess.RevMessage(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 55
+   在 BAnalytics.MessageHandling.PageViewProcess.Handler(String message) 位置 e:\Source\Workspaces\YB_SHOP_1.2\BAnalytics\BAnalytics.MessageHandling\PageViewProcess.cs:行号 44
